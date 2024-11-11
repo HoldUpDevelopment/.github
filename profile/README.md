@@ -1,2 +1,2 @@
-## Welcome to HoldUp! 👋
-# Creating tools for fostering online communities in commercial rock-climbing gyms
+# Welcome to HoldUp! 👋
+### creating tools for fostering online communities in commercial rock-climbing gyms
